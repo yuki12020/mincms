@@ -1,0 +1,11 @@
+confフォルダ
+dbテーブル名　perl
+カラム名　id,kensu,keywordのみ
+データベース接続はconfファイルのdatabase.confを使用
+
+viewフォルダ
+perl.phpで出力
+details.phpはperl.phpのクエリストリング参照ページ
+
+classフォルダ
+indexClassにperl.php,dtails.phpに使用するPDOを記述
